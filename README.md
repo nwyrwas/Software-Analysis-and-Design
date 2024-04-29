@@ -1,7 +1,7 @@
 # Software-Analysis-and-Design
 
 
-Hello everyone,
+Hello everyone my name is Nick Wyrwas and I am a part of CS-255-R4786,
 
 The project that is uploaded to this repository, is a project pertaining to a DriverPass company. The company wanted to see how we would be able to assist them with creating a system that allows easier booking and tracking of driving lessons for the community. One document
 That I think I could revise on would be the system design document. As there is always a more efficient and benenficial way to optimize some diagrams that I have outlined. To make it more sufficient for the company. I interpretted the user's needs into my system design
